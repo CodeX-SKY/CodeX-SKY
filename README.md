@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdu Khaliq</h1>
+<h1 align="center">Hi 👋, I'm Abduxoliq</h1>
 <h3 align="center">MERN Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-sky&label=Profile%20views&color=0e75b6&style=flat" alt="codex-sky" /> </p>
