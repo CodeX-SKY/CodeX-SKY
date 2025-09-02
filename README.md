@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Abduxoliq</h1>
-<h3 align="center">MERN Full Stack Web Developer</h3>
+<h3 align="center">M Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-sky&label=Profile%20views&color=0e75b6&style=flat" alt="codex-sky" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codex-sky" alt="codex-sky" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS | NodeJS | Linux Basics | Pyton | Ai**
+- 🌱 I’m currently learning **ReactJS | NodeJS | Linux Basics | Python | Ai** (2023)
 
 - 👨‍💻 All of my projects are available at [https://codex-sky.github.io/Portfolio/](https://codex-sky.github.io/Portfolio/)
 
-- 💬 Ask me about **My name is Abdulkhaliq, my surname is Ochildiyev. I'm a senior Front-end developer, I like to work on different projects and I never stop learning, always moving forward! I have been working in the field of Web programming for 1,5 years and have a lot of experience.**
+- 💬 Ask me about **I'm Abdulxoliq. I'm a senior Front-end developer, I like to work on different projects and I never stop learning, always moving forward! I have been working in the field of Web programming for 1,5 years and have a lot of experience.**
 
-- 📫 How to reach me **abdulkhaliqochildiyev@gmail.com**
+- 📫 How to reach me **work.skyfall@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/skyfall_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="skyfall_007" height="30" width="40" /></a>
-<a href="https://instagram.com/codex_sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codex_sky" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sale_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sale_me" height="30" width="40" /></a>
+<a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="skyfall_007" height="30" width="40" /></a>
+<a href="https://instagram.com/codex.sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codex_sky" height="30" width="40" /></a>
+<a href="t.me/abu4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="sale_me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
