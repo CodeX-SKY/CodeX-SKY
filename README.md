@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS | NodeJS | Linux Basics | Python | Ai** (2023)
 
-- 👨‍💻 All of my projects are available at [https://codex-sky.github.io/Portfolio/](https://codex-sky.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://codex-sky.github.io/Portfolio/](https://codex-sky.github.io/Portfolio/) ~demo
 
 - 💬 Ask me about **I'm Abdulxoliq. I'm a senior Front-end developer, I like to work on different projects and I never stop learning, always moving forward! I have been working in the field of Web programming for 1,5 years and have a lot of experience.**
 
